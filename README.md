@@ -20,4 +20,3 @@ I'm a **Full Stack Engineer** specializing in modern web development. I enjoy cr
 
 ## 📫 Contact
 - **GitHub**: [bskcorona-github](https://github.com/bskcorona-github)
-- **Email**: your-email@example.com
