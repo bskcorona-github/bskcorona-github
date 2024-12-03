@@ -5,7 +5,7 @@ I'm a **Full Stack Engineer** specializing in modern web development. I enjoy cr
 ## 🛠 Skills & Tools
 
 ### Languages & Frameworks
-![](https://skillicons.dev/icons?i=go,js,ts,py,php,html,css,react,nextjs,nuxtjs,express,django,laravel)
+![](https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,nuxtjs,express)
 
 ### Databases
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
