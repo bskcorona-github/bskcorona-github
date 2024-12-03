@@ -13,7 +13,7 @@ I'm still a beginner, but I look forward to working with you!
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord)
+![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord,vercel)
 
 <img src="./svg/chatgpt-4.svg" alt="OpenAI Logo" width="48" height="48" />
 
