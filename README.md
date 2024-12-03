@@ -13,7 +13,9 @@ I'm still a beginner, but I look forward to working with you!
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord,openai)
+![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
 
 ## 🌱 Currently Working On
 - Building innovative web applications with **Next.js** and **Nuxt.js**
