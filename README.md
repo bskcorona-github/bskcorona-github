@@ -1,6 +1,8 @@
 # Hi, I'm Corona 👋
 
-I'm a **Full Stack Engineer** specializing in modern web development. I enjoy crafting scalable and user-friendly applications with a focus on clean architecture and efficient workflows.
+I'm a **Full Stack Engineer** specializing in modern web development. 
+I'm still a beginner, but I look forward to working with you!
+
 
 ## 🛠 Skills & Tools
 
