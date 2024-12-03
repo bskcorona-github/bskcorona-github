@@ -13,7 +13,7 @@ I'm still a beginner, but I look forward to working with you!
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion)
+![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord)
 
 ## 🌱 Currently Working On
 - Building innovative web applications with **Next.js** and **Nuxt.js**
