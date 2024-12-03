@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Corona 👋  
 
-<!--
-**bskcorona-github/bskcorona-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Engineer** passionate about building scalable and user-friendly applications. I specialize in both **frontend** and **backend** development.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools  
+- **Frontend**: Next.js, Nuxt.js, React, TypeScript  
+- **Backend**: Go, Node.js , TypeScript , Next.js
+- **Database**: MySQL, MongoDB ,PostgreSQL
+- **Other Tools**: Prisma, Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Working On  
+- Developing modern web applications using the latest frameworks and technologies  
+- Exploring innovative solutions for real-world problems  
+
+## 📫 How to Reach Me  
+- GitHub: [bskcorona-github](https://github.com/bskcorona-github)  
+- Email: your-email@example.com  
+
+---
+
+これを `README.md` ファイルとして保存すれば、GitHubプロフィールに表示されます！必要に応じてメールアドレスやリンクを追加・変更してください。
