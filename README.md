@@ -11,7 +11,7 @@ I'm a **Full Stack Engineer** specializing in modern web development. I enjoy cr
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,heidisql,prisma)
+![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma)
 
 ## 🌱 Currently Working On
 - Building innovative web applications with **Next.js** and **Nuxt.js**
