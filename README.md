@@ -14,8 +14,8 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord)
-![OpenAI Logo](./svg/chatgpt-4.svg)
 
+<img src="./svg/chatgpt-4.svg" alt="OpenAI Logo" width="48" height="48" />
 
 
 
