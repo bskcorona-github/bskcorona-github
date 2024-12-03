@@ -1,23 +1,25 @@
-# About Me
+# Hi, I'm Corona 👋
 
-1. I'm a web frontend and backend developer from Japan
+I'm a **Full Stack Engineer** with experience in both **frontend** and **backend** development. I love building scalable and intuitive applications that solve real-world problems.
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+## 🔧 Skills
+### Frontend
+- Next.js, Nuxt.js, React, TypeScript
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+### Backend
+- Go, Node.js
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
+### Others
+- Prisma, MySQL, MongoDB, Tailwind CSS
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+## 🌱 Currently Learning
+- Advanced system architecture and cloud technologies
+- Experimenting with AI integration for web apps
 
-## Programming Languages
+## 📈 GitHub Stats
+![Corona's GitHub stats](https://github-readme-stats.vercel.app/api?username=bskcorona-github&show_icons=true&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+## 📫 Contact Me
+Feel free to reach out if you'd like to collaborate on a project!  
+- **Email**: your-email@example.com  
+- **GitHub**: [bskcorona-github](https://github.com/bskcorona-github)
