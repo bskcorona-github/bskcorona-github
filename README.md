@@ -8,7 +8,7 @@ I'm a **Full Stack Engineer** specializing in modern web development. I enjoy cr
 ![](https://skillicons.dev/icons?i=go,js,ts,vue,html,css,react,nextjs,nuxtjs,express)
 
 ### Databases
-![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,pl/sql)
 
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma)
