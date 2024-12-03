@@ -5,10 +5,13 @@ I'm a **Full Stack Engineer** specializing in modern web development. I enjoy cr
 ## 🛠 Skills & Tools
 
 ### Languages & Frameworks
-![](https://skillicons.dev/icons?i=nextjs,nuxtjs,react,typescript,go,nodejs)
+![](https://skillicons.dev/icons?i=go,js,ts,py,php,html,css,react,nextjs,nuxtjs,express,django,laravel)
 
-### Tools & Databases
-![](https://skillicons.dev/icons?i=prisma,mysql,mongodb,tailwindcss,git,github)
+### Databases
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
+
+### Tools
+![](https://skillicons.dev/icons?i=docker,git,githubactions,tailwindcss,prisma)
 
 ## 🌱 Currently Working On
 - Building innovative web applications with **Next.js** and **Nuxt.js**
