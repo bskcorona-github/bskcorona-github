@@ -14,7 +14,8 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,tailwindcss,aws,postman,prisma,vscode,notion,discord)
-![OpenAI](https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg)
+![OpenAI]()![Uploading chatgpt-4.svg…]()
+
 
 
 
