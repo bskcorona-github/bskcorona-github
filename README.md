@@ -1,21 +1,23 @@
-# Hi, I'm Corona 👋  
+# About Me
 
-I'm a **Full Stack Engineer** passionate about building scalable and user-friendly applications. I specialize in both **frontend** and **backend** development.
+1. I'm a web frontend and backend developer from Japan
 
-## 🛠 Technologies & Tools  
-- **Frontend**: Next.js, Nuxt.js, React, TypeScript  
-- **Backend**: Go, Node.js , TypeScript , Next.js
-- **Database**: MySQL, MongoDB ,PostgreSQL
-- **Other Tools**: Prisma, Tailwind CSS  
+2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
 
-## 🌱 What I'm Working On  
-- Developing modern web applications using the latest frameworks and technologies  
-- Exploring innovative solutions for real-world problems  
+3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
 
-## 📫 How to Reach Me  
-- GitHub: [bskcorona-github](https://github.com/bskcorona-github)  
-- Email: your-email@example.com  
+4. You can find my Zenn Blog [here](https://zenn.dev/manase)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
-これを `README.md` ファイルとして保存すれば、GitHubプロフィールに表示されます！必要に応じてメールアドレスやリンクを追加・変更してください。
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
