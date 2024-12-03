@@ -24,4 +24,4 @@ I'm still a beginner, but I look forward to working with you!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bskcorona-github&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
-- **GitHub**: [bskcorona-github](https://github.com/bskcorona-github)
+- **coomming soon**
