@@ -7,7 +7,7 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Languages & Frameworks
 
-![](https://skillicons.dev/icons?i=go,js,ts,vue,html,css,react,nextjs,nuxtjs,express)
+![](https://skillicons.dev/icons?i=go,js,ts,vue,php,laravel,html,css,react,nextjs,nuxtjs,express)
 
 ### Databases
 
