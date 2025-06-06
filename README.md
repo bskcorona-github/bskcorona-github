@@ -15,7 +15,7 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Development Tools & IDEs
 
-![](https://skillicons.dev/icons?i=git,github,gitlab,vscode)
+![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,cursor)
 
 ### Design & 3D Tools
 
