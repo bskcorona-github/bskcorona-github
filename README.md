@@ -31,18 +31,7 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Additional Tools
 
-<img src="https://img.icons8.com/color/48/000000/cursor.png" alt="Cursor" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/source-tree.png" alt="SourceTree" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/3d-modeling.png" alt="Spline3D" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/database-administrator.png" alt="HeidiSQL" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/beaver.png" alt="DBeaver" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/code-analysis.png" alt="SonarQube" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/project-management.png" alt="Backlog" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="TeamSpirit" width="48" height="48" />
-<img src="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png" alt="Google Drive" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Claude" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/magic-wand.png" alt="Magic" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Cursor" width="48" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="48" height="48" /> <img src="https://raw.githubusercontent.com/splinetool/spline-brand/main/assets/logo/spline-logo-dark.svg" alt="Spline3D" width="48" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="HeidiSQL" width="48" height="48" /> <img src="https://dbeaver.io/wp-content/themes/utouch/img/dbeaver-head.png" alt="DBeaver" width="48" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="48" height="48" /> <img src="https://nulab.com/img/brand/logos/typetalk-icon.svg" alt="Backlog" width="48" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="TeamSpirit" width="48" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Drive" width="48" height="48" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="48" height="48" /> <img src="https://claude.ai/images/claude_app_icon.png" alt="Claude" width="48" height="48" /> <img src="https://magic.dev/favicon.ico" alt="Magic" width="48" height="48" />
 
 ## 🌱 Currently Working On
 
