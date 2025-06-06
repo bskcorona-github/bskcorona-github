@@ -20,10 +20,12 @@ I'm still a beginner, but I look forward to working with you!
 ### Design & 3D Tools
 
 ![](https://skillicons.dev/icons?i=figma)
+<img src="./assets/icons/spline.svg" alt="Spline3D" width="48" height="48" />
 
 ### DevOps & CI/CD
 
 ![](https://skillicons.dev/icons?i=docker,aws,jenkins,vercel)
+<img src="./assets/icons/sonarqube.svg" alt="SonarQube" width="48" height="48" />
 
 ### Development Tools
 
@@ -31,20 +33,9 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Additional Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="SourceTree"/>
-  <img src="https://img.shields.io/badge/Spline-1B1B1D?style=for-the-badge&logoColor=white" alt="Spline3D"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-336791?style=for-the-badge&logoColor=white" alt="HeidiSQL"/>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Backlog-026FA1?style=for-the-badge&logo=backlog&logoColor=white" alt="Backlog"/>
-  <img src="https://img.shields.io/badge/TeamSpirit-0081C1?style=for-the-badge&logoColor=white" alt="TeamSpirit"/>
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Magic-6851FF?style=for-the-badge&logoColor=white" alt="Magic"/>
-</p>
+<img src="./assets/icons/cursor.svg" alt="Cursor" width="48" height="48" /> <img src="./assets/icons/sourcetree.svg" alt="SourceTree" width="48" height="48" /> <img src="./assets/icons/dbeaver.svg" alt="DBeaver" width="48" height="48" /> <img src="./assets/icons/backlog.svg" alt="Backlog" width="48" height="48" /> <img src="./assets/icons/googledrive.svg" alt="Google Drive" width="48" height="48" /> <img src="./assets/icons/openai.svg" alt="ChatGPT" width="48" height="48" />
+
+**HeidiSQL** • **TeamSpirit** • **Claude** • **Magic**
 
 ## 🌱 Currently Working On
 
