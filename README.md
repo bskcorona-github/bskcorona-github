@@ -7,22 +7,52 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Languages & Frameworks
 
-![](https://skillicons.dev/icons?i=go,js,ts,vue,php,laravel,html,css,react,nextjs,nuxtjs,express)
+![](https://skillicons.dev/icons?i=go,js,ts,vue,php,laravel,html,css,react,nextjs,nuxtjs,express,threejs,materialui)
 
 ### Databases
 
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
-### Tools
+### Development Tools & IDEs
 
-![](https://skillicons.dev/icons?i=git,github,gitlab,docker,tailwindcss,aws,postman,prisma,vscode,notion,discord,vercel)
+![](https://skillicons.dev/icons?i=git,github,gitlab,vscode)
 
-<img src="./svg/chatgpt-4.svg" alt="OpenAI Logo" width="48" height="48" />
+### Design & 3D Tools
+
+![](https://skillicons.dev/icons?i=figma)
+
+### DevOps & CI/CD
+
+![](https://skillicons.dev/icons?i=docker,aws,jenkins,vercel)
+
+### Development Tools
+
+![](https://skillicons.dev/icons?i=tailwindcss,prisma,postman,notion,discord)
+
+### Additional Tools
+
+<img src="https://img.icons8.com/color/48/000000/cursor.png" alt="Cursor" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/source-tree.png" alt="SourceTree" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/3d-modeling.png" alt="Spline3D" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/database-administrator.png" alt="HeidiSQL" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/beaver.png" alt="DBeaver" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/code-analysis.png" alt="SonarQube" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/project-management.png" alt="Backlog" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="TeamSpirit" width="48" height="48" />
+<img src="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png" alt="Google Drive" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Claude" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/000000/magic-wand.png" alt="Magic" width="48" height="48" />
 
 ## 🌱 Currently Working On
 
 - Building innovative web applications with **Next.js** and **Nuxt.js**
 - Exploring **AI integration** for enhanced user experiences
+- Working with **Three.js** and **Spline3D** for immersive 3D web experiences
+
+## 🌐 Portfolio
+
+Check out my work: **[bskportfolio.vercel.app](https://bskportfolio.vercel.app/)**
 
 ## 📈 Stats & Activities
 
