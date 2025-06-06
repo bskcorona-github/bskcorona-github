@@ -32,7 +32,8 @@ I'm still a beginner, but I look forward to working with you!
 ### Additional Tools
 
 **Cursor** • **SourceTree** • **Spline3D** • **HeidiSQL** • **DBeaver** • **SonarQube** • **Backlog** • **TeamSpirit** • **Google Drive** • **ChatGPT** • **Claude** • **Magic**
-
+<img src="assets/icons/cursor.svg" width="32" height="32" alt="Cursor" />
+<img src="assets/icons/sourcetree.svg" width="32" height="32" alt="SourceTree" />
 ## 🌱 Currently Working On
 
 - Building innovative web applications with **Next.js** and **Nuxt.js**
