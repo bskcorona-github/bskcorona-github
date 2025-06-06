@@ -31,7 +31,7 @@ I'm still a beginner, but I look forward to working with you!
 
 ### Additional Tools
 
-<img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" height="48" /> <img src="https://cdn.simpleicons.org/sourcetree/0052CC" alt="SourceTree" width="48" height="48" /> <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Spline3D" width="48" height="48" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="HeidiSQL" width="48" height="48" /> <img src="https://cdn.simpleicons.org/dbeaver/382923" alt="DBeaver" width="48" height="48" /> <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="48" height="48" /> <img src="https://cdn.simpleicons.org/backlog/026FA1" alt="Backlog" width="48" height="48" /> <img src="https://cdn.simpleicons.org/teamviewer/004CFF" alt="TeamSpirit" width="48" height="48" /> <img src="https://cdn.simpleicons.org/googledrive/4285F4" alt="Google Drive" width="48" height="48" /> <img src="https://cdn.simpleicons.org/openai/412991" alt="ChatGPT" width="48" height="48" /> <img src="https://cdn.simpleicons.org/anthropic/D4A574" alt="Claude" width="48" height="48" /> <img src="https://cdn.simpleicons.org/magic/FF6154" alt="Magic" width="48" height="48" />
+**Cursor** • **SourceTree** • **Spline3D** • **HeidiSQL** • **DBeaver** • **SonarQube** • **Backlog** • **TeamSpirit** • **Google Drive** • **ChatGPT** • **Claude** • **Magic**
 
 ## 🌱 Currently Working On
 
