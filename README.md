@@ -1,4 +1,4 @@
-# Hi, I'm Corona 👋
+# Hi, I'm Tatsuro Kinjo 👋
 
 I'm a **Full Stack Engineer** specializing in modern web development.
 I'm still a beginner, but I look forward to working with you!
